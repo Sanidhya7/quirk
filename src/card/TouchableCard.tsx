@@ -82,6 +82,8 @@ export const CardTitleAndSubtitleContent = ({ title, subtitle }) => (
     <SubHeader
       style={{
         fontSize: 16,
+        marginTop:1,
+        padding:10
       }}
     >
       {title}
